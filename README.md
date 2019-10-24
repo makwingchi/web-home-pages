@@ -6,9 +6,6 @@ Three web home pages I developed.
 ## Technologies
 - `HTML / CSS`
 - `Bootstrap`
-- `Javascript`
-- `jQuery`
-
 
 ## Web Screenshots
 * Photo Grid
